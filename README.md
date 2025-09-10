@@ -27,7 +27,6 @@ Este projeto foi desenvolvido como atividade acadêmica para demonstrar a aplica
 📦 Sistema de Gerenciamento de Tarefas
 ├── 📄 sistema_tarefas.py          # Código-fonte principal
 ├── 📄 documento_requisitos.md     # Documentação de requisitos
-├── 📄 checklist_projeto.md        # Checklist de desenvolvimento
 └── 📄 README.md                   # Este arquivo
 ```
 

@@ -5,8 +5,8 @@
 **Nome do Projeto:** Sistema Simplificado de Gerenciamento de Tarefas  
 **Linguagem:** Python  
 **Paradigma:** Programação Funcional  
-**Data:** 2024  
-**Versão:** 1.0  
+**Data:** 2025  
+**Versão:** 1.1  
 
 ## Equipe de Desenvolvimento
 

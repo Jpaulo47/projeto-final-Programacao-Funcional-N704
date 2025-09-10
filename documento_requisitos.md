@@ -16,7 +16,7 @@
 | [José William Alves de Oliveira] | [2326237] | Documentação |
 | [Francisco Wanderson da Silva] | [2323860] | Testes |
 | [Rayane dos Santos Silva] | [2326292] | Análise de Requisitos |
-| [Nome do Integrante 5] | [Matrícula] | Gerente de Projeto |
+| [Kamilly Almeida Braz] | [2323788] | Gerente de Projeto |
 | [Nome do Integrante 6] | [Matrícula] | Revisor de Código |
 
 ## 1. Requisitos Funcionais (RF)

@@ -219,7 +219,7 @@ Este projeto demonstra:
 | [Francisco Wanderson da Silva] | [2323860] | Testes |
 | [Rayane dos Santos Silva] | [2326292] | Análise de Requisitos |
 | [Kamilly Almeida Braz] | [2323788] | Gerente de Projeto |
-| [Nome do Integrante 6] | [Matrícula] | Revisor de Código |
+| [Matheus de Lima Silva] | [2323842] | Revisor de Código |
 
 ## 📚 Documentação Adicional
 

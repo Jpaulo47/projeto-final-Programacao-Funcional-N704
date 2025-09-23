@@ -1,13 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Sistema Simplificado de Gerenciamento de Tarefas
-Implementado seguindo paradigma de programação funcional
-
-Autor: Equipe de Desenvolvimento
-Data: 2024
-"""
-
 # Lista global para armazenar as tarefas
 tarefas = []
 
